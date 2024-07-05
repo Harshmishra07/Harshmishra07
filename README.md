@@ -85,10 +85,10 @@ Frontend
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Harshmishra07&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshmishra07&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harshmishra07&show_icons=true&count_private=true&hide_border=true" align="center" />  </div>
 <br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshmishra07&hide_border=true&layout=compact" align="center" /></div>  
+
 <br/>  
 
 <div align="center">
