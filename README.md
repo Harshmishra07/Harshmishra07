@@ -1,4 +1,6 @@
-## <!--**<div align="center">👋 Hi, I’m Harsh Mishra</div>**-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone+👋,)](https://git.io/typing-svg)<br/>
+<br/>
 <img src="https://github.com/Harshmishra07/info07/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png?raw=true"/>
 <img src="https://media1.tenor.com/m/eQurkgjhvYsAAAAd/akatsuki-anime.gif" align="right"  height="250px" width="250px "/>
 
