@@ -1,8 +1,4 @@
-<style>
-  table{
-    display:flex;
-    justify-content:center;
-</style>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone+👋,)](https://git.io/typing-svg)<br/>
 <br/>
 <img src="https://github.com/Harshmishra07/info07/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png?raw=true"/>
@@ -89,9 +85,7 @@ Frontend
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harshmishra07&show_icons=true&count_private=true&hide_border=true" align="center" />  </div>
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshmishra07&hide_border=true&layout=compact" align="center" /></div>  
+ 
 
 <br/>  
 
